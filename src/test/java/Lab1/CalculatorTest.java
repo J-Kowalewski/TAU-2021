@@ -24,17 +24,26 @@ public class CalculatorTest {
     }
 
     @Test
-    public void testPower1() {
+    public void testPower1() throws Exception {
         int result = calc.power(3,2);
         assertEquals(9,result);
         System.out.println("Test1");
     }
 
-
     @Test
-    public void testPower2() {
+    public void testPower2() throws Exception {
         int result = calc.power(4,3);
         assertEquals(64,result);
         System.out.println("Test2");
+    }
+
+    @Test
+    public void testPowerException(){
+        try{
+            calc.power(-2,0);
+        }
+        catch(Exception e){
+            System.out.println("Caught Exception");
+        }
     }
 }
