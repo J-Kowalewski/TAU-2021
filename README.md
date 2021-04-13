@@ -33,8 +33,12 @@ Testy w JUnit
     2. otwórz sklep
     3. otwórz zakładkę "dla mężczyzn"
     4. otwórz zakładkę "obuwie"
-    5. otwórz zakładkę "obuwie sportowe"
-    6. sortuj "cena max. - 250zł""
+
+## LAB3
+
+
+    6. otwórz zakładkę "obuwie sportowe"
+    7. sortuj "cena max. - 250zł""
  2. Test sortowania i wyszukiwania
     1. otwórz stronę główną
     2. otwórz sklep
@@ -48,4 +52,9 @@ Testy w JUnit
     5. wybierz "3 wersję kolorystyczną" przedmiotu
     6. dodaj do koszyka
     7. otwórz koszyk
+
+
 ##LAB3
+
+Konwersja projektu z lab1 do maven'a
+Dodanie nowych funkcjonalności oraz testów
