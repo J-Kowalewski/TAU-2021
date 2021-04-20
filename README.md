@@ -49,7 +49,7 @@ Testy w JUnit
     6. dodaj do koszyka
     7. otwórz koszyk
 
-##LAB3
+## LAB3
 
-Konwersja projektu z lab1 do maven'a
+Konwersja projektu z lab1 do maven'a <br>
 Dodanie nowych funkcjonalności oraz testów
